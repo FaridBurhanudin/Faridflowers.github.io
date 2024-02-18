@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:04:36	5254/5254	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2264c00bd1-24a3%22	https://raihannafisz.github.io/robots.txt		(from )
+10:04:36	832/832	---M-Z	200	added ('OK')	text/html	etag:W/%226396f142-340%22	https://raihannafisz.github.io/bunga/	C:/My%20Web%20Sites/Bunga/raihannafisz.github.io/bunga/index.html	(from )
+10:04:36	1314/1314	---M-Z	200	added ('OK')	text/css	etag:W/%226396f142-522%22	https://raihannafisz.github.io/bunga/css/style.css	C:/My%20Web%20Sites/Bunga/raihannafisz.github.io/bunga/css/style.css	(from https://raihannafisz.github.io/bunga/)
+10:04:37	58676/58676	---M--	200	added ('OK')	image/png	etag:%226396f142-e534%22	https://raihannafisz.github.io/bunga/img/flowers.png	C:/My%20Web%20Sites/Bunga/raihannafisz.github.io/bunga/img/flowers.png	(from https://raihannafisz.github.io/bunga/)
+10:04:37	12620/12620	---M-Z	200	added ('OK')	text/html	etag:W/%226396f142-314c%22	https://raihannafisz.github.io/bunga/flower.html	C:/My%20Web%20Sites/Bunga/raihannafisz.github.io/bunga/flower.html	(from https://raihannafisz.github.io/bunga/)
+10:04:37	35625/35625	---M-Z	200	added ('OK')	text/css	etag:W/%226396f142-8b29%22	https://raihannafisz.github.io/bunga/css/main.css	C:/My%20Web%20Sites/Bunga/raihannafisz.github.io/bunga/css/main.css	(from https://raihannafisz.github.io/bunga/flower.html)
+10:04:37	72/72	---M--	200	added ('OK')	application/javascript	etag:%226396f142-48%22	https://raihannafisz.github.io/bunga/main.js	C:/My%20Web%20Sites/Bunga/raihannafisz.github.io/bunga/main.js	(from https://raihannafisz.github.io/bunga/flower.html)
